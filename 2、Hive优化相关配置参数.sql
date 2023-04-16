@@ -37,3 +37,6 @@ set hive.optimize.union.remove=true;
 set hive.groupby.skewindata=false;
 
 
+-- 修改 by刘德伟
+1111111111111111111111111111
+
