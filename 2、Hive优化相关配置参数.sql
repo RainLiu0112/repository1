@@ -36,7 +36,10 @@ set hive.optimize.union.remove=true;
 -- group倾斜
 set hive.groupby.skewindata=false;
 
-
 -- 修改 by刘德伟
 1111111111111111111111111111
+
+-- 修改 from mmz
+
+molemola
 
